@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "<a href='https://github.com/aoyang1996/aoyang.github.io/blob/main/_pages/includes/intro.md'>Homepage</a>"
 excerpt: ""
 author_profile: true
 redirect_from: 
