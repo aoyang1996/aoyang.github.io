@@ -126,10 +126,6 @@ defaults:
       layout: default
       author_profile: true
 
-links:
-  - title: About Me
-    url: /https://github.com/aoyang1996/aoyang.github.io/blob/main/_pages/includes/intro.md/
-
 
 # Sass/SCSS
 sass:
