@@ -4,7 +4,7 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /https://rayeren.github.io/#-publications/
+  - /# about/
   - /
 ---
 
